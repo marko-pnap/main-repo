@@ -7,3 +7,6 @@
 [submodule "new-submodule"]
 	path = new-submodule
 	url = https://github.com/marko-pnap/new-submodule.git
+[submodule "test-dir"]
+	path = test-dir
+	url = https://github.com/marko-pnap/test-dir.git
