@@ -7,3 +7,6 @@
 [submodule "third-submodule"]
 	path = third-submodule
 	url = https://github.com/marko-pnap/third-submodule.git
+[submodule "new-submodule"]
+	path = new-submodule
+	url = https://github.com/marko-pnap/new-submodule.git
