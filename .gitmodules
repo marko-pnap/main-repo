@@ -7,3 +7,6 @@
 [submodule "test-dir"]
 	path = test-dir
 	url = https://github.com/marko-pnap/test-dir.git
+[submodule "custom-name"]
+	path = custom-name
+	url = https://github.com/marko-pnap/test-repo.git
